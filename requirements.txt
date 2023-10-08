@@ -1,0 +1,14 @@
+Flask==3.0.0
+fsspec==2023.9.1
+huggingface-hub==0.17.2
+Jinja2==3.1.2
+lxml==4.9.3
+requests==2.31.0
+scipy==1.11.2
+sympy==1.12
+tokenizers==0.13.3
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.66.1
+transformers==4.33.2
