@@ -52,8 +52,8 @@ p
 /* Solid border. */
 hr.solid
 {
-    margin-left: 200pt;
-    margin-right: 200pt;
+    margin-left: 20pt;
+    margin-right: 20pt;
     border-top: 3px solid #C0C0C0;
     border-radius: 5px;
 }
