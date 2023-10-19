@@ -20,10 +20,10 @@ This project is a web application developed using Python and the Flask framework
 4. Access the application in your web browser at `http://localhost:5000`.
 
 ### Project Video Demo
-Watch the project video demo [here](URL HERE).
+Watch the project video demo (https://youtu.be/rFBg1g4K_tQ).
 
 ### Acknowledgments
-- Twitter-RoBERTa model for sentiment analysis: [Link to Model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)
+- Twitter-RoBERTa model for sentiment analysis: (https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)
 
 ### Contact
 For questions or inquiries, please contact Dhruv Charan at charanbik1976@gmail.com.
